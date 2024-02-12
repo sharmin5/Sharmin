@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* hero style */
+.btn-style{
+    background-color:#458FF6 ;
+}
+.img-style{
+    width: 400px;
+
+}
+
+/* service style */
+.hr-style{
+    width: 200px;
+    border: 3px solid black;
+    margin-bottom: 20px;
+    margin: 0 auto;
+    
+
+}
+.hr-style1{
+    width: 200px;
+    border: 3px solid black;
+    margin-bottom: 20px;
+
+    
+    
+
+}
+.card-footer{
+    border: none;
+    background-color: transparent;
+}
+
+.card-img{
+    width: auto;
+}
+
+.card-style{
+box-shadow:2px 3px 3px rgba(128, 128, 128, 0.775) ;
+
+}
+footer{
+    background-image: linear-gradient(#65BCF3,#65BCF3);
+}
+footer ul {
+    padding: 0;
+}
+footer ul li{
+    list-style-type: none;
+}
+footer ul li a{color: white;
+    text-decoration: none;
+}
